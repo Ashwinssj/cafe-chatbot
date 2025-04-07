@@ -1,0 +1,20 @@
+item_name,item_size,item_price,category
+Cappuccino,Medium,150,Coffee
+Cappuccino,Large,180,Coffee
+Latte,Medium,140,Coffee
+Latte,Large,170,Coffee
+Espresso,Medium,120,Coffee
+Mocha,Medium,160,Coffee
+Mocha,Large,190,Coffee
+Cold Mocha,Medium,170,Coffee
+Cold Mocha,Large,200,Coffee
+White Mocha,Medium,170,Coffee
+White Mocha,Large,200,Coffee
+Cold Coffee,Medium,150,Coffee
+Cold Coffee,Large,180,Coffee
+Flat White,Medium,150,Coffee
+Hot Chocolate,Medium,140,Beverages
+Caramel Macchiato,Medium,180,Coffee
+Caramel Macchiato,Large,210,Coffee
+Lemonade,Medium,120,Beverages
+Iced Tea,Medium,110,Beverages
