@@ -9,7 +9,10 @@ const responses = {
 // Send message to backend API with fallback to local processing
 async function sendMessageToBackend(message) {
     try {
-        const response = await fetch('http://127.0.0.1:5000/chat', {
+        // Use the current domain instead of hardcoded localhost URL
+        const apiUrl = window.location.origin + '/chat';
+        
+        const response = await fetch(apiUrl, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
